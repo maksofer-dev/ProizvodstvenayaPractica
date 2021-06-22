@@ -1,0 +1,122 @@
+﻿<Page x:Name="rentPage" x:Class="ИС_агенства_недвижимости.RentPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ИС_агенства_недвижимости"
+      mc:Ignorable="d" 
+      d:DesignHeight="579" d:DesignWidth="980"
+      Title="RentPage">
+
+    <Page.Resources>
+        <Style TargetType="ListViewItem">
+            <Setter Property="HorizontalContentAlignment" Value="Center" />
+        </Style>
+    </Page.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+
+        </Grid.ColumnDefinitions>
+        <Button x:Name="addBN" Height="50" Width="150" Content="Добавить" Background="#FFE6E6E6" HorizontalAlignment="Center" Margin="0" Click="addBN_Click" VerticalAlignment="Center"/>
+        <Button x:Name="delBN" Height="50" Width="150" Content="Удалить" Background="#FFE6E6E6" Grid.Column="1" HorizontalAlignment="Center" Margin="0" Click="delBN_Click" VerticalAlignment="Center"/>
+        <Button x:Name="barcodeBN" Height="50" Width="150" Content="Штрих-код" Background="#FFE6E6E6" Grid.Column="2" HorizontalAlignment="Center" Margin="0" Click="barcodeBN_Click" VerticalAlignment="Center"/>
+
+        <DataGrid  Visibility="Visible" x:Name="rentsGrid" AutoGenerateColumns="False" FontSize="14" FontFamily="/ИС Спортивного комплекса;component/Fonts/#Gilroy Bold" Background="WhiteSmoke" Margin="0" Grid.Row="1" Grid.ColumnSpan="3">
+            <DataGrid.Columns>
+
+
+
+                <DataGridTemplateColumn Header="Фото" Width="150"  >
+                    <DataGridTemplateColumn.HeaderStyle>
+                        <Style TargetType="DataGridColumnHeader">
+                            <Setter Property="HorizontalContentAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTemplateColumn.HeaderStyle>
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Width="Auto" Source="{Binding photo}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn IsReadOnly="True" Binding="{Binding kolvoKomnat}"  ElementStyle="{StaticResource RightAligned}" Header="Ком." Width="50">
+                    <DataGridTextColumn.HeaderStyle>
+                        <Style TargetType="DataGridColumnHeader">
+                            <Setter Property="HorizontalContentAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.HeaderStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn IsReadOnly="True" Binding="{Binding Etajnost}" ElementStyle="{StaticResource RightAligned}" Header="Этажность" Width="80">
+                    <DataGridTextColumn.HeaderStyle>
+                        <Style TargetType="DataGridColumnHeader">
+                            <Setter Property="HorizontalContentAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.HeaderStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn IsReadOnly="True" Binding="{Binding Plosad}" ElementStyle="{StaticResource RightAligned}" Header="Площадь" Width="70">
+                    <DataGridTextColumn.HeaderStyle>
+                        <Style TargetType="DataGridColumnHeader">
+                            <Setter Property="HorizontalContentAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.HeaderStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn IsReadOnly="True" Binding="{Binding Cost}" ElementStyle="{StaticResource RightAligned}" Header="Стоимость" Width="110">
+                    <DataGridTextColumn.HeaderStyle>
+                        <Style TargetType="DataGridColumnHeader">
+                            <Setter Property="HorizontalContentAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.HeaderStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn IsReadOnly="True" Binding="{Binding telephone}" ElementStyle="{StaticResource RightAligned}" Header="Телефон" Width="115">
+                    <DataGridTextColumn.HeaderStyle>
+                        <Style TargetType="DataGridColumnHeader">
+                            <Setter Property="HorizontalContentAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.HeaderStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn IsReadOnly="True" Binding="{Binding address}" ElementStyle="{StaticResource RightAligned}" Header="Адрес" Width="160">
+                    <DataGridTextColumn.HeaderStyle>
+                        <Style TargetType="DataGridColumnHeader">
+                            <Setter Property="HorizontalContentAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.HeaderStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn IsReadOnly="True" Binding="{Binding owner}" ElementStyle="{StaticResource RightAligned}" Header="Владелец" Width="250">
+                    <DataGridTextColumn.HeaderStyle>
+                        <Style TargetType="DataGridColumnHeader">
+                            <Setter Property="HorizontalContentAlignment" Value="Center" />
+                        </Style>
+                    </DataGridTextColumn.HeaderStyle>
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <!--<ListView x:Name="rentList" BorderBrush="Black">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Фото" Width="150">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel>
+                                    <Image Width="150" Source="{Binding photo}"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Ком." Width="50" DisplayMemberBinding="{Binding kolvoKomnat}" />
+                    <GridViewColumn Header="Этажность" Width="90" DisplayMemberBinding="{Binding Etajnost}"/>
+                    <GridViewColumn Header="Площадь" Width="80" DisplayMemberBinding="{Binding Plosad}"/>
+                    <GridViewColumn Header="Стоимость" Width="90" DisplayMemberBinding="{Binding Cost}"/>
+                    <GridViewColumn Header="Телефон" Width="85" DisplayMemberBinding="{Binding telephone}"/>
+                    <GridViewColumn Header="Адрес" Width="160" DisplayMemberBinding="{Binding address}"/>
+                    <GridViewColumn Header="Владелец" Width="150" DisplayMemberBinding="{Binding owner }"/>
+                </GridView>
+            </ListView.View>
+        </ListView>-->
+    </Grid>
+</Page>

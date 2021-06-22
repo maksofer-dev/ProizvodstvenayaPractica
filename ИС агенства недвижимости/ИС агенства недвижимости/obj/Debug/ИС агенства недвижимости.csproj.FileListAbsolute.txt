@@ -1,0 +1,245 @@
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\ИС агенства недвижимости.exe.config
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\ИС агенства недвижимости.exe
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\ИС агенства недвижимости.pdb
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\mainPage.g.cs
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\MainWindow.g.cs
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\App.g.cs
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости_MarkupCompile.cache
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости_MarkupCompile.lref
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\mainPage.baml
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\MainWindow.baml
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости.g.resources
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС_агенства_недвижимости.Properties.Resources.resources
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости.csproj.GenerateResource.cache
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости.csproj.CoreCompileInputs.cache
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости.exe
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости.pdb
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\ИС агенства недвижимости.exe.config
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\ИС агенства недвижимости.exe
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\ИС агенства недвижимости.pdb
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости.csprojAssemblyReference.cache
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\mainPage.g.cs
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\MainWindow.g.cs
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\App.g.cs
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости_MarkupCompile.cache
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости_MarkupCompile.lref
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\mainPage.baml
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\MainWindow.baml
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости.g.resources
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС_агенства_недвижимости.Properties.Resources.resources
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости.csproj.GenerateResource.cache
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости.csproj.CoreCompileInputs.cache
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости.exe
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости.pdb
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\loginPage.g.cs
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\loginPage.baml
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\Reg.g.cs
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\Reg.baml
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\MainWindow2.g.cs
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\MainWindow2.baml
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости.csprojAssemblyReference.cache
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\welcomePage.g.cs
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\welcomePage.baml
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\propertyListing.g.cs
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\propertyListing.baml
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\loginPage.g.cs
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\MainWindow2.g.cs
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\propertyListing.g.cs
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\Reg.g.cs
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\welcomePage.g.cs
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\loginPage.baml
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\MainWindow2.baml
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\propertyListing.baml
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\Reg.baml
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\welcomePage.baml
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\MaterialDesignColors.dll
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\MaterialDesignColors.pdb
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости.csproj.CopyComplete
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\MaterialDesignColors.dll
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\MaterialDesignColors.pdb
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости.csproj.CopyComplete
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\RentPage.g.cs
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\RentPage.baml
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\RentPage.g.cs
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\RentPage.baml
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\sellPage.g.cs
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\sellPage.baml
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ClientList.g.cs
+E:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ClientList.baml
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ClientList.g.cs
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\sellPage.g.cs
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ClientList.baml
+D:\Инф.система\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\sellPage.baml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\ИС агенства недвижимости.exe.config
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\ИС агенства недвижимости.exe
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\ИС агенства недвижимости.pdb
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\MaterialDesignColors.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\App.g.cs
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости_MarkupCompile.cache
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости_MarkupCompile.lref
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости.g.resources
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС_агенства_недвижимости.Properties.Resources.resources
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости.csproj.GenerateResource.cache
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости.csproj.CoreCompileInputs.cache
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости.csproj.CopyComplete
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости.exe
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости.pdb
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\MainView\ClientList.g.cs
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\Authorization\loginPage.g.cs
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\Authorization\MainWindow.g.cs
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\MainView\MainWindow2.g.cs
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\MainView\propertyListing.g.cs
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\Authorization\Reg.g.cs
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\MainView\RentPage.g.cs
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\MainView\sellPage.g.cs
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\MainView\welcomePage.g.cs
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\MainView\ClientList.baml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\Authorization\loginPage.baml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\Authorization\MainWindow.baml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\MainView\MainWindow2.baml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\MainView\propertyListing.baml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\Authorization\Reg.baml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\MainView\RentPage.baml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\MainView\sellPage.baml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\MainView\welcomePage.baml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\App.baml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\Authorization\EmployeeInfo.g.cs
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\Authorization\EmployeeInfo.baml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\EntityFramework.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\EntityFramework.xml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\MainView\AddRentInfo.g.cs
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\MainView\AddRentInfo.baml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\MainView\AddSellInfo.g.cs
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\MainView\AddSellInfo.baml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\MainView\AddClientInfo.g.cs
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\MainView\AddClientInfo.baml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\netstandard.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.AppContext.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Collections.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.ComponentModel.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Console.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Data.Common.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Globalization.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.IO.Compression.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.IO.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.IO.Pipes.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Linq.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Net.Http.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Net.Ping.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Net.Primitives.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Net.Requests.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Net.Security.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Net.Sockets.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.ObjectModel.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Reflection.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Resources.Reader.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Resources.Writer.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Runtime.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Security.Claims.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Security.Principal.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Security.SecureString.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Text.Encoding.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Threading.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Threading.Thread.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Threading.Timer.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Xml.XPath.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\BarcodeStandard.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Buffers.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Drawing.Common.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Memory.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Text.Json.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.ValueTuple.dll
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Buffers.xml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Memory.xml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Text.Json.xml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\bin\Debug\System.ValueTuple.xml
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\ИС агенства недвижимости.exe.config
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\MainView\BarCodeWindow.g.cs
+C:\Users\Maksofer-PC\Desktop\ИС агенства недвижимости\ИС агенства недвижимости\obj\Debug\View\MainView\BarCodeWindow.baml
